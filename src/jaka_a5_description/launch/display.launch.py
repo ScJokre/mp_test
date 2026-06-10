@@ -11,6 +11,7 @@ from launch_ros.actions import Node
 def generate_launch_description():
     package_share = get_package_share_directory("jaka_a5_description")
     urdf_path = os.path.join(package_share, "urdf", "jaka_a5.urdf")
+    rviz_path = os.path.join(package_share, "rviz", "jaka_a5.rviz")
 
     with open(urdf_path, "r", encoding="utf-8") as urdf_file:
         robot_description = urdf_file.read()
@@ -42,6 +43,8 @@ def generate_launch_description():
                 package="rviz2",
                 executable="rviz2",
                 condition=IfCondition(start_rviz),
+                arguments=["-d", rviz_path],
+                parameters=[{"robot_description": robot_description}],
                 output="screen",
             ),
         ]
