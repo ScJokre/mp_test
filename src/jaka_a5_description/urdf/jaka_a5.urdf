@@ -30,7 +30,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/base_link.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/base_link.STL" />
       </geometry>
       <material
         name="">
@@ -44,7 +44,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/base_link.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/base_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -77,7 +77,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J1.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J1.STL" />
       </geometry>
       <material
         name="">
@@ -91,7 +91,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J1.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J1.STL" />
       </geometry>
     </collision>
   </link>
@@ -135,7 +135,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J2.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J2.STL" />
       </geometry>
       <material
         name="">
@@ -149,7 +149,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J2.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J2.STL" />
       </geometry>
     </collision>
   </link>
@@ -193,7 +193,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J3.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J3.STL" />
       </geometry>
       <material
         name="">
@@ -207,7 +207,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J3.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J3.STL" />
       </geometry>
     </collision>
   </link>
@@ -251,7 +251,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J4.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J4.STL" />
       </geometry>
       <material
         name="">
@@ -265,7 +265,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J4.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J4.STL" />
       </geometry>
     </collision>
   </link>
@@ -309,7 +309,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J5.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J5.STL" />
       </geometry>
       <material
         name="">
@@ -323,7 +323,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J5.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J5.STL" />
       </geometry>
     </collision>
   </link>
@@ -367,7 +367,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J6.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J6.STL" />
       </geometry>
       <material
         name="">
@@ -381,7 +381,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://jaka_description/meshes/jaka_a5_meshes/J6.STL" />
+          filename="package://jaka_a5_description/meshes/jaka_a5_meshes/J6.STL" />
       </geometry>
     </collision>
   </link>
